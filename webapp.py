@@ -71,7 +71,7 @@ a:hover,  a:active {
 </style>
 
 <div class="footer">
-<p align="center"> <a href="https://www.linkedin.com/in/ronylpatil/">Developed with ❤ by ronil</a></p>
+<p align="center"> Developed Piyush Sharma (191229) and Raven Mehta (191303)</a></p>
 </div>
         """
 
